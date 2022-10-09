@@ -1,0 +1,12 @@
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\bin\Release\net6.0\Cqrs.deps.json
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\bin\Release\net6.0\Cqrs.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\bin\Release\net6.0\Cqrs.pdb
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\Cqrs.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\Cqrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\Cqrs.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\Cqrs.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\Cqrs.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\Cqrs.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\refint\Cqrs.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\Cqrs.pdb
+C:\Users\vladi\OneDrive\Документы\DotNet\DVD\Cqrs\obj\Release\net6.0\ref\Cqrs.dll
