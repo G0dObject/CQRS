@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Cqrs/1.0.0": {
+      "CQRS/1.0.0": {
         "runtime": {
-          "Cqrs.dll": {}
+          "CQRS.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Cqrs/1.0.0": {
+    "CQRS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,12 @@
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\bin\Debug\net7.0\CQRS.deps.json
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\bin\Debug\net7.0\CQRS.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\bin\Debug\net7.0\CQRS.pdb
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\CQRS.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\CQRS.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\CQRS.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\CQRS.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\CQRS.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\refint\CQRS.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\CQRS.pdb
+C:\Users\vladi\OneDrive\Документы\DotNet\Sqrs\obj\Debug\net7.0\ref\CQRS.dll
